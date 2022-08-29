@@ -30,9 +30,13 @@ It can happen that you want to open a page with the Gemini protocol as a kind of
 
 A client requests a file from server:
 
+```
 gemini://gemini.example.com/mybib.bin
+```
 
 The server responds and specifies the size of the file:
 
+```
 20 application/octet-stream; size=1073741824
 <... some binary data ...>
+```
