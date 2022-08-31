@@ -40,3 +40,7 @@ The server responds and specifies the size of the file:
 20 application/octet-stream; size=1073741824
 <... some binary data ...>
 ```
+
+## 4. See also
+
+gemini://twins.rocketnine.space/proposals.gmi
